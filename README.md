@@ -313,7 +313,7 @@ Enter data in JSON format. Please validate the data based on your Data Model.
 ### Parameters
 * **index** (Block Index)
 * **public-token-key** (Please enter _Public Key_ hear. You can get it from the GET "create_token_key" Endpoint). 🔑
-* **[NodeURLs](https://github.com/tusharyadav511/DewChain-README#nodeurls)**
+* **[NodeURLs](https://github.com/tusharyadav511/DewChain-README/blob/main/README.md#nodeurls)**
 
 ```javascript
 {
