@@ -153,20 +153,20 @@ Use SQL DB as a node.
 
 "NodeURLs": 
 {
-    "db_url_1": "postgres://postgres:password@localhost:5432/Node_1",
-    "db_url_2": "postgres://postgres:password@localhost:5432/Node_2",
-    "db_url_3": "postgres://postgres:password@localhost:5432/Node_3"
+    "node_url_1": "postgres://postgres:password@localhost:5432/Node_1",
+    "node_url_2": "postgres://postgres:password@localhost:5432/Node_2",
+    "node_url_3": "postgres://postgres:password@localhost:5432/Node_3"
 }
 
 ```
 
-#### DewChain currently supports the following databases:
+#### DewChain currently supports the following databases as Nodes:
 
 * PostgreSQL >= 9.4
 * MySQL
 * MariaDB
 
-##### DB_URL
+##### Node_URL
 DewChain supports specifying Database configuration in a URL form.
 
 The form is:
@@ -318,9 +318,9 @@ Enter data in JSON format. Please validate the data based on your Data Model.
 
 ```javascript
 {
-    "db_url_1": "postgres://postgres:password@localhost:5432/Node_1",
-    "db_url_2": "postgres://postgres:password@localhost:5432/Node_2",
-    "db_url_3": "postgres://postgres:password@localhost:5432/Node_3"
+    "node_url_1": "postgres://postgres:password@localhost:5432/Node_1",
+    "node_url_2": "postgres://postgres:password@localhost:5432/Node_2",
+    "node_url_3": "postgres://postgres:password@localhost:5432/Node_3"
 }
 ```
 
