@@ -112,11 +112,12 @@ Data Model allows for **Validating Data Proposal**. ✅
 
 ```javascript
 {
-  "NodeURLs": {
-    "db_url_1": "postgres://postgres:password@localhost:5432/Node_1",
-    "db_url_2": "postgres://postgres:password@localhost:5432/Node_2",
-    "db_url_3": "postgres://postgres:password@localhost:5432/Node_3"
-}, "UserModel": {
+  "NodeUrls": {
+    "node_url_1": "postgres://postgres:password@localhost:5432/Node_1",
+    "node_url_2": "postgres://postgres:password@localhost:5432/Node_2",
+    "node_url_3": "postgres://postgres:password@localhost:5432/Node_3"
+  },
+  "UserModel": {
   "title": "Person",
   "type": "object",
   "properties": {
