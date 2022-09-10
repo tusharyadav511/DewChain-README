@@ -1,5 +1,5 @@
 # DewChain-README
-Enterprise-grade distributed ledger software solutions provide modularity and versatility for a broad industry use case. Its modular architecture accommodates the diversity of enterprise use cases through [REST-APIs](https://en.wikipedia.org/wiki/Representational_state_transfer).
+Enterprise-grade distributed [ledger software](https://dewchain-dlt.com/docs) solutions provide modularity and versatility for a broad industry use case. Its modular architecture accommodates the diversity of enterprise use cases through [REST-APIs](https://en.wikipedia.org/wiki/Representational_state_transfer).
 
 
 
